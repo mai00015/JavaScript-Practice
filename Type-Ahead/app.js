@@ -7,7 +7,6 @@ fetch(endpoint)
 
 function findMatches(wordToMatch, cities){
   return cities.filter(place => {
-
     // Looking for a city or state matches what was searched
     const regex = new RegExp(wordToMatch, 'gi'); // smaller and insecure word
     return place.city.match(regex) || place.state.match(regex);

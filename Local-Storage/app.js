@@ -4,7 +4,6 @@ const itemsList = document.querySelector('.plates');
 // Before loading the page, it will get value from the local Storage and output to the screen it it has
 const items = JSON.parse(localStorage.getItem('items')) || [];
 
-
 function addItem(e){
   e.preventDefault(); // To prevent the page refresh
   const text = (this.querySelector('[name=item')).value; // Get value when user inputs and return value
@@ -47,8 +46,6 @@ function toggleDone(e){
 // Submit to listen when users click enter or press a button
 addItems.addEventListener('submit', addItem);
 itemsList.addEventListener('click', toggleDone);
-
-
 
 // Output values on screen when loading if it has in Local Storage
 populateList(items, itemsList);

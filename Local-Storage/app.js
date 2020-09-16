@@ -46,6 +46,5 @@ function toggleDone(e){
 // Submit to listen when users click enter or press a button
 addItems.addEventListener('submit', addItem);
 itemsList.addEventListener('click', toggleDone);
-
 // Output values on screen when loading if it has in Local Storage
 populateList(items, itemsList);

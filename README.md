@@ -7,3 +7,4 @@
 6. Check Checkboxes url: https://mai00015.github.io/JavaScript-Practice/Check-Checkboxes/
 7. Slide In On Scroll url: https://mai00015.github.io/JavaScript-Practice/Slide-In-On-Scroll/
 8. Local Storage url: https://mai00015.github.io/JavaScript-Practice/Local-Storage/
+9. Mouse Move Shadow url: https://mai00015.github.io/JavaScript-Practice/Mouse-Move-Shadow/

@@ -8,4 +8,4 @@
 7. Slide In On Scroll url: https://mai00015.github.io/JavaScript-Practice/Slide-In-On-Scroll/
 8. Local Storage url: https://mai00015.github.io/JavaScript-Practice/Local-Storage/
 9. Mouse Move Shadow url: https://mai00015.github.io/JavaScript-Practice/Move-Shadow/
-10. Sort url:https://mai00015.github.io/JavaScript-Practice/Sort-It-Without-Articles/
+10. Sort url: https://mai00015.github.io/JavaScript-Practice/Sort-It-Without-Articles/

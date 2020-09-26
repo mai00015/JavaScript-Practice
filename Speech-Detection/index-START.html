@@ -20,7 +20,6 @@
       .map(result => result[0])
       .map(result => result.transcript)
       .join('');
-
       const poopScript = transcript.replace(/poop|poo|shit|dump/gi, 'ðŸ’©');
       p.textContent = poopScript;
       if (e.results[0].isFinal) {
